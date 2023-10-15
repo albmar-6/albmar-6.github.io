@@ -1,1 +1,0 @@
-Det är ocharmigt att vara otacksam
