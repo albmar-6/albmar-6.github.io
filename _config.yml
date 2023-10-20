@@ -33,12 +33,12 @@ plugins:
   - jekyll-feed
 
 header_files:
-  -index.markdown
-  -Vigsel.md
-  -Kvällen.md
-  -Boende.md
-  -Brunch.md
-  -OSA.md
+  - index.markdown
+  - Vigsel.md
+  - Kvällen.md
+  - Boende.md
+  - Brunch.md
+  - OSA.md
 
 
 # Exclude from processing.
