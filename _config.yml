@@ -40,6 +40,9 @@ header_pages:
   - Brunch.md
   - OSA.md
 
+url:
+  - https://albmar-6.github.io
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
