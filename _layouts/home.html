@@ -8,6 +8,11 @@ layout: default
   {%- endif -%}
 
   {{ content }}
+  
+  <div class="hero">
+    <img class="feature-img" src="{{ 'assets/cole-son-magnolia-tapet.jpeg' | relative_url }}" />
+  </div>
+
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
