@@ -32,6 +32,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_files:
+  -index.markdown
+  -Vigsel.md
+  -Kvällen.md
+  -Boende.md
+  -Brunch.md
+  -OSA.md
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
