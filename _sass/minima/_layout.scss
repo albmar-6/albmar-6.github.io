@@ -99,10 +99,6 @@
       }
     }
   }
-
-  #element { background-image: url("albmar-6.github.io/assets/cole-son-magnolia-tapet.jpeg"); }
-  
-  
   
   /**
    * Site footer
@@ -180,7 +176,7 @@
   .page-content {
     padding: $spacing-unit 0;
     flex: 1;
-    background-image: url('{{ site.baseurl }}/assets/cole-son-magnolia-tapet.jpeg')
+    background-image: url("/assets/cole-son-magnolia-tapet.jpeg");
   }
   
   .page-heading {
