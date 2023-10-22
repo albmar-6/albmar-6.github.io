@@ -178,6 +178,7 @@
   .page-content {
     padding: $spacing-unit 0;
     flex: 1;
+    background-image: url('/assets/cole-son-magnolia-tapet.jpeg')
   }
   
   .page-heading {
@@ -206,20 +207,6 @@
     display: block;
     @include relative-font-size(1.5);
   }
-  .bg {
-    /* The image used */
-    background-image: conic-gradient(red, yellow, green);
-  
-    /* Full height */
-    height: 100%;
-  
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
   
   /**
    * Posts
