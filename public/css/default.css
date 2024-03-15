@@ -1,0 +1,31 @@
+body {
+    background-color: transparent;
+    color: #000000;
+  }
+    
+  html:after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    z-index: -10;
+    background-image: url(../img/bild.jpg);
+    background-position: 100% 100%;
+    background-size: 30% 80%;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    transition: bild2 0.2s linear;
+  }
+  
+  body:before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    z-index: -5;
+    background: linear-gradient(180deg, rgba(235, 235, 235, 0.473)) 0, #cbffe77e 100%);
+  }
