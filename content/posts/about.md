@@ -15,38 +15,39 @@ varsin sida av huset och det höll på att inte bli någon dejt. Tur var väl de
 Albin hade 4 år tidigare flyttat upp till Luleå för att plugga till civilingengör. Han är född och
 uppvuxen i Linköping tillsammans med sina två systrar och föräldrar.
 
-![](../img/covidexamen.jpg "Albins examen i köket")
+<img src="../img/covidexamen.jpg" class="img-fluid">
 
 Anna hade precis bytt ett äventyr i Riga (och 6 års läkarstudier) till ett annat i norr,
 nämligen i Piteå.
 
-![](../img/annaExamen.jpg "Annas examen")
+<img src="../img/annaExamen.jpg" class="img-fluid">
 
 Tillsammans påbörjade vi vårt liv i Norrbotten. Covidpandemin som vi alla minns, tvingade
 oss att tidigt fatta beslutet att flytta ihop för att kunna umgås. Snabbt insåg vi att Annas 1:a
 på 35kvm var lite litet och vi fick byta upp oss till vår första gemensamma lägenhet i januari
 2021.
 
-![](../img/vanligdag.jpg "En vanlig dag i norrbotten")
+<img src="../img/vanligdag.jpg" class="img-fluid">
 
 På somrarna har Anna lett en aggressiv reklamkampanj för västkusten och det tog inte
 lång tid innan Albin började känna sig som en tvättäkta västkustfinne med elitistiska
 åsikter om saltvatten.
 
-![](../img/stranden.jpg "Stranden på västkusten")
+<img src="../img/stranden.jpg" class="img-fluid">
 
 2022 blev året som vi tog steget att flytta ner till Trollhättan för att prova vingarna i en större
 stad och för att komma närmare hem (Annas hem).
 Det var också då vi påbörjade vår nästa dröm, Saltverket. Tomten där vi nu bygger vårt
 drömhem.
-![](../img/soptippen.jpg "Soptippen i Piteå")
-![](../img/trollhättan.jpg "Kanalen i Trollhättan")
+
+<img src="../img/soptippen.jpg" class="img-fluid">
+<img src="../img/trollhättan.jpg" class="img-fluid">
 
 På dagarna jobbar nu Albin nere i Göteborg, och innan han åker hem till Anna på kvällen blir
 det en och annan bolderingsvägg med kollegorna. Anna sitter sällan hemma och väntar
 på Albin utan jobbar ofta kväll på akuten på NÄL.
 
-![](../img/Bouldering.jpg "Bouldering i Utby")
-![](../img/drAnna.jpg "Doktor Anna")
+<img src="../img/Bouldering.jpg " class="img-fluid">
+<img src="../img/drAnna.jpg" class="img-fluid">
 
 I augusti 2023 friade Albin till Anna och nu räknar vi ner dagarna till vårt bröllop!
