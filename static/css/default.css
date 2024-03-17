@@ -1,6 +1,6 @@
 body {
-    background-color: transparent;
-    color: #000000;
+    background: rgb(127,255,183);
+    background: linear-gradient(0deg, rgba(127,255,183,1) 0%, rgba(255,242,214,1) 100%);
   }
     
   html:after {
