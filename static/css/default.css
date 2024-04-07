@@ -1,6 +1,8 @@
 body {
   background: rgb(72,161,111);
   background: linear-gradient(0deg, rgba(72,161,111,1) 0%, rgba(255,255,255,1) 100%);
+  background-repeat: no-repeat;
+  background-size: auto;
   }
     
   html:after {
