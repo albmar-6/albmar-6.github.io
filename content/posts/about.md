@@ -12,7 +12,7 @@ tog inte lång tid innan vi träffades en kall vårdag utanför Luleås kulturhu
 varsin sida av huset och det höll på att inte bli någon dejt. Tur var väl det att Annas bästa vän
 ändå lyckades övertyga Anna att sms:a Albin och fråga vart han höll hus.
 
-Albin hade 4 år tidigare flyttat upp till Luleå för att plugga till civilingengör. Han är född och
+Albin hade 4 år tidigare flyttat upp till Luleå för att studera till civilingengör. Han är född och
 uppvuxen i Linköping tillsammans med sina två systrar och föräldrar.
 
 <img src="../img/covidexamen.jpg" class="img-fluid">
@@ -24,7 +24,7 @@ nämligen i Piteå.
 
 Tillsammans påbörjade vi vårt liv i Norrbotten. Covidpandemin som vi alla minns, tvingade
 oss att tidigt fatta beslutet att flytta ihop för att kunna umgås. Snabbt insåg vi att Annas 1:a
-på 35kvm var lite litet och vi fick byta upp oss till vår första gemensamma lägenhet i januari
+på 35kvm var lite väl liten och vi fick byta upp oss till vår första gemensamma lägenhet i januari
 2021.
 
 <img src="../img/vanligdag.jpg" class="img-fluid">
@@ -44,8 +44,11 @@ drömhem.
 <img src="../img/trollhättan.jpg" class="img-fluid">
 
 På dagarna jobbar nu Albin nere i Göteborg, och innan han åker hem till Anna på kvällen blir
-det en och annan bolderingsvägg med kollegorna. Anna sitter sällan hemma och väntar
-på Albin utan jobbar ofta kväll på akuten på NÄL.
+det en och annan bolderingvägg med kollegorna. 
+
+Anna, i sin tur,  sitter sällan hemma och väntar
+på Albin. När hon inte jobbar kväll på akuten umgås hon gärna med sina vänner, odlar grönsaker på balkongen eller läser en och annan roman.
+Tills för ganska nyligen spelade hon även handboll men detta fick ett abrupt slut när hälsenan bestämde sig för att inte hänga ihop längre. 
 
 <img src="../img/Bouldering.jpg " class="img-fluid">
 <img src="../img/drAnna.jpg" class="img-fluid">

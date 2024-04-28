@@ -1,6 +1,5 @@
 body {
-  background: rgb(72,161,111);
-  background: linear-gradient(0deg, rgba(72,161,111,1) 0%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(0deg, rgba(125,166,110,1) 0%, rgba(255,255,255,1) 100%) no-repeat center center fixed;
   }
     
   html:after {

@@ -4,7 +4,7 @@
     <title>Posts on My New Hugo Site</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,21 +12,21 @@
       <link>http://localhost:1313/boende/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/boende/</guid>
-      <description>Vi har förbokat flera hotellrum på Ljungskile folkhögskola. Vår förhoppning är att alla som vill ska kunna bo över på hotellet.&#xA;Hotellrum: Enkelrum Västkustgården (huvudbyggnaden): 990:-/natt inkl frukost&#xA;2-bäddsrum Västkustgården (huvudbyggnaden): 1290:-/natt inkl frukost BRUNCH DÅ???&#xA;Skulle dessa ta slut finns det även andra boendealternativ i annexet och på vandrarhemmet. För att göra din bokning skickar ni ett mail till info@ljungskile.org, uppge att vilken rumstyp ni önskar och att ni tillhör bröllopsföljet e.</description>
+      <description>Vi har förbokat flera hotellrum på Ljungskile folkhögskola. Vår förhoppning är att alla som vill ska kunna bo över på hotellet.&#xA;Hotellrum: Enkelrum Västkustgården (huvudbyggnaden): 1115:-/natt inkklusive brunch.&#xA;2-bäddsrum Västkustgården (huvudbyggnaden): 1540:-/natt inklusive brunch.&#xA;Skulle dessa ta slut finns det även andra boendealternativ i annexet och på vandrarhemmet. För att göra er bokning så skickar ni ett mail till info@ljungskile.org, uppge att vilken rumstyp ni önskar och att ni tillhör bröllopsföljet e.</description>
     </item>
     <item>
       <title>Bra att veta</title>
       <link>http://localhost:1313/braattveta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/braattveta/</guid>
-      <description>Klädkod Dagen till ära väljer vi att kalla sommarfin, ljus kavaj går också bra.&#xA;♡ Barn Vi tycker väldigt mycket om era barn och träffar dem gärna under vigseln och eftermiddagen. Däremot vill vi fira i vuxet sällskap från middagen och framåt. Ammande barn (och unga vuxna) är såklart välkomna!&#xA;♡ Gåvor och presenter Är absolut inget vi förväntar oss, vi är väldigt glada om ni tar er tiden att spendera denna dagen med oss.</description>
+      <description>Klädkod Dagen till ära väljer vi att kalla sommarfin, ljus kavaj går också bra.&#xA;♡ Barn Vi tycker väldigt mycket om era barn och träffar dem gärna under vigseln och eftermiddagen. Däremot vill vi fira i vuxet sällskap från middagen och framåt. Ammande barn (och unga vuxna) är såklart välkomna hela dagen och kvällen!&#xA;♡ Gåvor och presenter Är absolut inget vi förväntar oss, vi är väldigt glada om ni tar er tiden att spendera denna dagen tillsammans med oss.</description>
     </item>
     <item>
       <title>Middag och fest</title>
       <link>http://localhost:1313/middag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/middag/</guid>
-      <description>Efter vigseln och brudskålen åker vi gemensamt tillbaka i bussen till Ljungskile Folkhögskola där vi kommer att äta middag tillsammans.&#xA;Innan middagen finns det möjlighet att checka in för de som ska sova över och inte har hunnit att göra det innan. För alla andra finns det nu tid för mingel och avkoppling. Middagen börjar kl 17.30.&#xA;Middagen håller på fram till ca 21.00.&#xA;Till middagen serveras både alkohol- och alkoholfri dricka.</description>
+      <description>Efter vigseln och brudskålen åker vi gemensamt tillbaka i bussen till Ljungskile folkhögskola där vi kommer att äta middag tillsammans.&#xA;Innan middagen finns det möjlighet att checka in för de som ska sova över och inte har hunnit att göra det innan. För alla andra finns det nu tid för mingel och avkoppling. Middagen börjar kl 18.00.&#xA;Middagen håller på fram till ca 21.00.&#xA;Till middagen serveras både alkohol- och alkoholfri dricka.</description>
     </item>
     <item>
       <title>O.S.A</title>
@@ -54,7 +54,7 @@
       <link>http://localhost:1313/vigsel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/vigsel/</guid>
-      <description>Vigseln äger rum i Resteröds kyrka kl 13.00.&#xA;En gemensam transport med buss avgår kl 12.00 sker från Ljungskiles Folkhögskolas parkering.&#xA;I samband med transporten hem från kyrkan kommer vi att stanna för en brudskål.&#xA;♡ Samlingsplats KARTA&#xA;Karta till Ljungskile folkhögskola&#xA;♡ Kyrka KARTA&#xA;Karta till Resteröds kyrka</description>
+      <description>En gemensam transport med buss avgår kl 12.00 och sker från Ljungskile folkhögskolas parkering.&#xA;Tänk på att det kan vara bra att ha ätit lunch innan bussen går.&#xA;Vigseln äger sedan rum i Resteröds kyrka kl 13.00.&#xA;I samband med transporten hem från kyrkan kommer vi att stanna för en brudskål.&#xA;♡ Samlingsplats Karta till Ljungskile folkhögskola&#xA;♡ Kyrka Karta till Resteröds kyrka</description>
     </item>
   </channel>
 </rss>
