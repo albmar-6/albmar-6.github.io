@@ -7,7 +7,7 @@ Vi har förbokat flera hotellrum på Ljungskile folkhögskola. Vår förhoppning
 vill ska kunna bo över på hotellet.
 
 **Hotellrum:**
-**Enkelrum Västkustgården** (huvudbyggnaden): 1115:-/natt inkklusive brunch.
+**Enkelrum Västkustgården** (huvudbyggnaden): 1115:-/natt inklusive brunch.
 
 **2-bäddsrum Västkustgården** (huvudbyggnaden): 1540:-/natt inklusive brunch.
 
